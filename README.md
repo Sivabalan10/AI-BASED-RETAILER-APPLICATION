@@ -1,2 +1,2 @@
 # AI-BASED-RETAILER-APPLICATION
- Main branch is for uploading documentation
+ Main branch is for uploading documents
